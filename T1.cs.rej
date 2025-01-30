@@ -1,0 +1,12 @@
+diff a/T1.cs b/T1.cs	(rejected hunks)
+@@ -6,7 +6,8 @@
+   {
+     static void Main(string[] args)
+     {
+-      Console.WriteLine("Hello World!");    
++      Console.WriteLine("Hello World!");
++      Console.WriteLine("Branch1");        
+     }
+   }
+ }
+\ No newline at end of file
