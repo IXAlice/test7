@@ -8,6 +8,8 @@ namespace HelloWorld
     {
       Console.WriteLine("Hello World!");
       Console.WriteLine("Branch1");        
+      Console.WriteLine("Hello World!");    
+      Console.WriteLine("Main");    
     }
   }
 }
